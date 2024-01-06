@@ -1,0 +1,22 @@
+.card {
+  height: 300px;
+  width: 270px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 10px;
+  list-style-type: none;
+  margin: 20px;
+}
+
+.image {
+  width: 270px;
+  height: 230px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.project-name {
+  font-family: Roboto;
+  padding-left: 10px;
+  color: #475569;
+  font-weight: bold;
+}
